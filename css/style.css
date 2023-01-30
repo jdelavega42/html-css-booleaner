@@ -3,3 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    position: relative;
+    background-color: royalblue;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    height: 6rem;
+    
+}
+
+#logo{
+    height: 3rem;
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+}
+
+main{
+    padding: 5px;
+}
