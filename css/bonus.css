@@ -1,0 +1,117 @@
+/*! ALL */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*! /ALL */
+
+/*! BODY */
+body{
+
+}
+/*! /BODY */
+
+/*! HEADING*/
+header{
+    position: relative;
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+    background-size: 25%;
+    height: 6rem;
+}
+
+#logo{
+    height: 3rem;
+    position: absolute;
+    bottom: 5px;
+    left: 355px;
+}
+/*! /HEADING*/
+
+/*! MAIN */
+main{
+    margin: 0 350px;
+    /* padding: 5px; */
+}
+/*title section*/
+.title{
+    margin: 15px 0;
+}
+.grey{
+    color: grey;
+}
+.top{
+    font-size: 1rem;
+}
+.bottom{
+    font-size: 0.8rem;
+}
+.booleaner{
+    color: deepskyblue;
+}
+/* /title section*/
+
+/* image section */
+.images{
+    margin: 15px 0;
+}
+.tim{
+    height: 300px;
+}
+/* /image section */
+
+/* lorem section*/
+.highlight{
+    margin: 15px 0;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+/* /lorem section*/
+
+/* list section */
+.unordered{
+    margin: 30px 0;
+    padding-left: 15px;
+}
+/* /list section */
+
+/* table section */
+table{
+    margin: 15px 0;
+    border-collapse: collapse;
+}
+thead{
+    background-color: steelblue;
+    color: white;
+}
+.lightblue{
+    background-color: lightblue;
+}
+.cell{
+    width: 50%;
+}
+/* /table section */
+/*! /MAIN */
+
+/*! FOOTER */
+footer{
+    margin: 0 350px;
+}
+.suggestion{
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin: 10px 0;
+    padding: 10px;
+    color: white;
+    font-weight: bolder;
+}
+#monitor{
+    background-image: url(../img/monitor.jpg);
+}
+#graph{
+    background-image: url(../img/graph.jpg);
+}
+/*! /FOOTER */
