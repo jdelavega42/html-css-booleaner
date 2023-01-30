@@ -29,7 +29,7 @@ main{
 }
 
 .images{
-    margin: 10px 0 10px 0;
+
 }
 
 .tim{
@@ -51,12 +51,8 @@ main{
     color: royalblue;
 }
 
-.highlight{
+span{
     background-color: yellow;
-}
-
-.unordered{
-    margin: 20px 0 10px 0;
 }
 
 thead{
