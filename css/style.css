@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    width: 850px;
+}
+
 header{
     position: relative;
     background-color: royalblue;
@@ -16,10 +20,45 @@ header{
 #logo{
     height: 3rem;
     position: absolute;
-    bottom: 0;
+    bottom: 5px;
     left: 5px;
 }
 
 main{
     padding: 5px;
+}
+
+.images{
+    margin: 10px 0 10px 0;
+}
+
+.tim{
+    height: 300px;
+}
+
+.grey{
+    color: grey;
+}
+
+.top{
+    font-size: 1rem;
+}
+
+.bottom{
+    font-size: 0.8rem;
+}
+.booleaner{
+    color: royalblue;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+.unordered{
+    margin: 20px 0 10px 0;
+}
+
+thead{
+    background-color: royalblue;
 }
