@@ -58,3 +58,24 @@ span{
 thead{
     background-color: royalblue;
 }
+
+footer{
+    padding: 5px;
+}
+
+.suggestion{
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+    color: white;
+    font-weight: bolder;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+}
+#graph{
+    background-image: url(../img/graph.jpg);
+}
