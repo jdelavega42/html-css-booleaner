@@ -15,7 +15,7 @@ body{
 /*! HEADING*/
 header{
     position: relative;
-    background-color: cornflowerblue;
+    background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
     background-size: 45%;
     height: 6rem;
@@ -46,7 +46,7 @@ main{
     font-size: 0.8rem;
 }
 .booleaner{
-    color: deepskyblue;
+    color: #21aae5;
 }
 /* /title section*/
 
@@ -81,11 +81,11 @@ table{
     border-collapse: collapse;
 }
 thead{
-    background-color: steelblue;
+    background-color: #1fa9e5;
     color: white;
 }
 .lightblue{
-    background-color: lightblue;
+    background-color: #b1e5f2;
 }
 .cell{
     width: 50%;

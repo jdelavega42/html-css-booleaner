@@ -15,7 +15,7 @@ body{
 /*! HEADING*/
 header{
     position: relative;
-    background-color: cornflowerblue;
+    background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
     background-size: 25%;
     height: 6rem;
@@ -33,6 +33,7 @@ header{
 main{
     margin: 0 350px;
     /* padding: 5px; */
+    width: 850px;
 }
 /*title section*/
 .title{
@@ -45,10 +46,10 @@ main{
     font-size: 1rem;
 }
 .bottom{
-    font-size: 0.8rem;
+    font-size: 0.7rem;
 }
 .booleaner{
-    color: deepskyblue;
+    color: #21aae5;
 }
 /* /title section*/
 
@@ -83,11 +84,11 @@ table{
     border-collapse: collapse;
 }
 thead{
-    background-color: steelblue;
+    background-color: #1fa9e5;
     color: white;
 }
 .lightblue{
-    background-color: lightblue;
+    background-color: #b1e5f2;
 }
 .cell{
     width: 50%;
@@ -98,6 +99,8 @@ thead{
 /*! FOOTER */
 footer{
     margin: 0 350px;
+    width: 850px;
+
 }
 .suggestion{
     background-size: cover;
